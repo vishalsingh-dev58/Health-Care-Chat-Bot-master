@@ -56,4 +56,4 @@ Then, Go to your directory and run the file `QuestionDiagonosisTkinter.py`
 
 ## :suspect: Project Members
 
-- [Vishal Singh](https://github.com/2000Vishal)
+- [Vishal Singh](https://github.com/vishalsingh-dev58)
